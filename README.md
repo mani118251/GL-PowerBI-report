@@ -10,7 +10,9 @@ Environments  : Microsoft Fabric, Power BI Desktop, SQL Server, MS Excel
 Duration      : Aug 2024 to Jan 2025
 
 Description:
+          
           Metcash Limited is Australia’s leading wholesale distribution and marketing company, supplying independent retailers and businesses across the Food, Liquor, and Hardware sectors. With a strong network of independent stores, including IGA, Cellarbrations, and Mitre 10, Metcash provides essential supply chain solutions, business support, and competitive market strategies to help local businesses thrive. Headquartered in Sydney, Metcash plays a crucial role in ensuring independent retailers can compete with larger chains while delivering quality products and services to communities across Australia.
+          
           Developed interactive and insightful Power BI reports for Metcash to enhance decision-making across its Food, Liquor, and Hardware sectors. Designed and optimized data models using Azure Synapse Analytics and Microsoft Fabric Data Warehouse to ensure efficient data processing and real-time reporting. Collaborated with business stakeholders to gather requirements, create user-friendly dashboards, and implement advanced DAX measures for data analysis. Focused on improving data accuracy, performance, and visualization best practices.
 
 Responsibilities/contributions: 
